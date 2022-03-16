@@ -10,4 +10,4 @@
 
 # Bot
 
-##  [Telegram精选-Bot](https://t.me/TGTopCNBot)
+##  @TGTopCNBot [Telegram精选-Bot](https://t.me/TGTopCNBot)
