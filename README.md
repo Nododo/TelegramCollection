@@ -14,4 +14,4 @@
 
 # 高质量梯子推荐（付费）：
 
-## https://i.sw11.icu/E4ak
+## https://i.7d9d.top/E4ak
