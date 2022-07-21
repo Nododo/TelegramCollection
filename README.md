@@ -18,7 +18,7 @@
 
 # Bot
 
-##  @TGTopCNBot [Telegram精选-Bot](https://t.me/TGTopCNBot) https://t.me/TGTopCNBot
+##  @TGTopCNBot [Telegram精选-Bot](https://t.me/TGTopCNBot) 🔗 https://t.me/TGTopCNBot
 
 # 高质量梯子推荐（付费）：
 
